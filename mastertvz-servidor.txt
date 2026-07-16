@@ -1,0 +1,5 @@
+# MasterTVz - configuração pública
+# Não coloque usuário, senha, get.php ou player_api.php neste arquivo.
+
+server_url=https://thehelp.shop/
+site_url=https://thehelp.shop/
