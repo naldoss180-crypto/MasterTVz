@@ -1,5 +1,6 @@
 # MasterTVz - configuração pública
 # Não coloque usuário, senha, get.php ou player_api.php neste arquivo.
 
-server_url=https://raw.githubusercontent.com/naldoss180-crypto/MasterTVz/3f1c714ac5f6c249c597be68a2396c3570a0c8d7/lista1
-site_url=https://thehelp.shop/
+lista_url=https://raw.githubusercontent.com/naldoss180-crypto/MasterTVz/3f1c714ac5f6c249c597be68a2396c3570a0c8d7/lista1
+server_url=http://danonecaseiro.uk
+site_url=https://mastertvz.base44.app
