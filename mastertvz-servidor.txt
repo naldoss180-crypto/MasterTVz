@@ -2,5 +2,5 @@
 # Não coloque usuário, senha, get.php ou player_api.php neste arquivo.
 
 lista_url=https://raw.githubusercontent.com/naldoss180-crypto/MasterTVz/refs/heads/main/lista2
-server_url=https://thehelp.shop
+server_url=http://danonecaseiro.uk
 site_url=https://mastertvz.base44.app
